@@ -27,9 +27,10 @@ This repository contains all the Google Colab files and outputs for various mach
   - Car Price Prediction
   - Diabetes Detection Example
 
-### Demos
-- YouTube link for PyCaret demo
-- YouTube link for Gradio demo
+### Demo Videos
+- **PyCaret Demo:** [Watch here](https://youtu.be/OKeiETt0dFU)
+- **Gradio Demo:** [Watch here](https://youtu.be/O31ph1AGWAc)
+
 
 ## Getting Started
 To run the Google Colab files, simply open each notebook in Colab, and execute the cells to see the outputs.
