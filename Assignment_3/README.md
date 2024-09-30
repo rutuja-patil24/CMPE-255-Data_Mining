@@ -1,6 +1,6 @@
 # Assignment 3
 
-This repository contains various machine learning tasks and demonstrations focusing on multiple aspects of data science, including tabular data, text classification, image processing, and time series forecasting. Below are the key components included in this assignment.
+This repository contains various machine learning tasks and demonstrations focusing on multiple aspects of data science using Autogluon, including tabular data, text classification, image processing, and time series forecasting. Below are the key components included in this assignment.
 
 ## Tabular Classification/Regression
 
@@ -51,4 +51,7 @@ This repository contains various machine learning tasks and demonstrations focus
 ## California House Price Prediction
 
 - Implementations related to predicting house prices based on various features from the California housing dataset.
+
+  ### Demo Videos
+- **Autogluon:** [Watch here](https://www.youtube.com/watch?v=gcAig8H-o6Q&feature=youtu.be)
 
