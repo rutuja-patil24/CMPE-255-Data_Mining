@@ -24,3 +24,6 @@ CRISP-DM SEMMA AND KDD
 - Colab Link: https://colab.research.google.com/drive/1nwFqLws6uFqkBH-kj7ahcyAdZUOH2R3g?usp=sharing
 
 - Medium Article Link: https://medium.com/@rutujabhaskarrao.patil/uncovering-insights-with-knowledge-discovery-in-databases-kdd-on-supermarket-sales-data-dac7be0b875d
+
+ ### YouTube Videos
+- **CRISP-DM,SEMMA & KDD Demo:** [Watch here](https://youtu.be/OKeiETt0dFU)
