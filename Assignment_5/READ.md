@@ -26,4 +26,4 @@ CRISP-DM SEMMA AND KDD
 - Medium Article Link: https://medium.com/@rutujabhaskarrao.patil/uncovering-insights-with-knowledge-discovery-in-databases-kdd-on-supermarket-sales-data-dac7be0b875d
 
  ### YouTube Videos
-- **CRISP-DM,SEMMA & KDD Demo:** [Watch here](https://youtu.be/OKeiETt0dFU)
+- **CRISP-DM,SEMMA & KDD Demo:** [Watch here](https://youtu.be/qZCg_cvXozk)
