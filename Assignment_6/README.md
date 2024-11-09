@@ -12,7 +12,7 @@ Data engineering colab and apache beam
 ### Part 2: Auto EDA
 - Dataset : Tabular Playground Series - Nov 2022.
 
-- Colab Link: https://colab.research.google.com/drive/1XhE4dZ-q29_bs27JJ-5Hvwd0P2JHozMl?usp=sharing
+- Colab Link: https://colab.research.google.com/drive/1Ffe_I11aerH5tviP8YRc0ZNP9TcRYUW8?usp=sharing
 
  ### Part 3: Apache Beam Feature
 - Dataset : Google Analytics Customer Revenue Prediction.
