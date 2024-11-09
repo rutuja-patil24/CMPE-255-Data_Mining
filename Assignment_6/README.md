@@ -5,12 +5,12 @@ Data engineering colab and apache beam
 ## Contents
 
 ### Part 1: EDA
-- Dataset : Spotify Dataset.
+- Dataset : Amazon Sales Dataset.
 
-- Colab Link: https://colab.research.google.com/drive/1dWsRoxSZbdNRPXweShF7aAjvvGnKsnPy?usp=sharing
+- Colab Link: https://colab.research.google.com/drive/1cmbt4FW07RjbAh4to3blZMLGspXB2YBh?usp=sharing
 
 ### Part 2: Auto EDA
-- Dataset : Tabular Playground Series - Nov 2022.
+- Dataset : Heart Disease UCI.
 
 - Colab Link: https://colab.research.google.com/drive/1Ffe_I11aerH5tviP8YRc0ZNP9TcRYUW8?usp=sharing
 
