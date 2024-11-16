@@ -16,9 +16,11 @@ https://colab.research.google.com/drive/1xFN-9olk9qz4O9WMIP2WCx9X_6uB5kQJ?usp=sh
 
 - Anomaly Detection of Timeseries Using Timegpt Colab Link:
 
+ https://colab.research.google.com/drive/1k4zKJHSV-XUHag30OqwfgZTt2PHpBsG3?usp=sharing
+
 - Timegpt for Energy Forecasting Colab Link:
 
-https://colab.research.google.com/drive/1k4zKJHSV-XUHag30OqwfgZTt2PHpBsG3?usp=sharing
+
 
 - TimeGPT Video Link:  [Watch here](https://youtu.be/XvtW7Znyjbk)
 
