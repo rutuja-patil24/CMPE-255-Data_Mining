@@ -8,7 +8,7 @@ Data engineering colab and apache beam
 
 - TimeGPT Multivariate and Long Horizon Colab Link: 
 
-https://colab.research.google.com/drive/1cmbt4FW07RjbAh4to3blZMLGspXB2YBh?usp=sharing
+https://colab.research.google.com/drive/1mNbG5_woa4IiZKm9ZVzrITFPfrHSypB0?usp=sharing
 
 - Finetune Colab Link: 
 
