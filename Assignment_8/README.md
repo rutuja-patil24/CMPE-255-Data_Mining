@@ -20,6 +20,11 @@ https://colab.research.google.com/drive/1xFN-9olk9qz4O9WMIP2WCx9X_6uB5kQJ?usp=sh
 
 - Timegpt for Energy Forecasting Colab Link:
 
+https://colab.research.google.com/drive/1wCoOGCySNsqI1GTUL7FcRfhPV0rm9zSi?usp=sharing
+
+- Timegpt for Bitcoin Forecasting Colab Link:
+
+https://colab.research.google.com/drive/1FoQ9RGefjnr2TYOSjS3HXm4pmkWZxsEN?usp=sharing
 
 
 - TimeGPT Video Link:  [Watch here](https://youtu.be/XvtW7Znyjbk)
