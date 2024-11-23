@@ -20,5 +20,9 @@ Clustering
 - e) Anomaly Detection Time Series Colab Link:
 
    https://colab.research.google.com/drive/15BpRw58MXgYcp7d_-hiOc6sNyHRfr5jv?usp=sharing
+  
+- f) Clustering of Timeseries Data Using Pretrained Models Colab Link:
+  
+  https://colab.research.google.com/drive/1LJ6ldKN3z5PP8oyIbsF9m9b0souJNmmp?usp=sharing
 
 - Video Link:  [Watch here](https://youtu.be/XvtW7Znyjbk)
