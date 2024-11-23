@@ -11,4 +11,6 @@ Clustering
 
 - c) Gaussian mixture models clustering Colab Link: https://colab.research.google.com/drive/1S1AU0i-Wm_aWgtc4B-bqHIALjsO5Adl3?usp=sharing
 
+- e) Anomaly Detection Time Series Colab Link: https://colab.research.google.com/drive/15BpRw58MXgYcp7d_-hiOc6sNyHRfr5jv?usp=sharing
+
 - Video Link:  [Watch here](https://youtu.be/XvtW7Znyjbk)
