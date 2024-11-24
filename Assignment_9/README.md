@@ -29,4 +29,8 @@ Clustering
   
   https://colab.research.google.com/drive/1LJ6ldKN3z5PP8oyIbsF9m9b0souJNmmp?usp=sharing
 
+- g) Document Clustering Colab Link:
+  
+  https://colab.research.google.com/drive/1AIwdRn9xQT83SyB-6WF_vMCjYWUQ-pmq?usp=sharing
+
 - Video Link:  [Watch here](https://youtu.be/XvtW7Znyjbk)
