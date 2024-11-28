@@ -28,12 +28,12 @@ I created a weather application using GPT Engineer in VS Code. The app provides 
 
 - GPT Engineer Installation
   
-<img width="1440" alt="Screenshot 2024-09-29 at 11 44 44 PM" src="https://github.com/rutuja-patil24/CMPE-255-Data_Mining/blob/main/Assignment_4/Screenshots/GPT_Engg_Installation.png">
+<img width="1440" alt="Screenshot" src="https://github.com/rutuja-patil24/CMPE-255-Data_Mining/blob/main/Assignment_4/Screenshots/GPT_Engg_Installation.png">
 
 
-- GPT Engineer Installation
+- Weather App 
   
-<img width="1440" alt="Screenshot 2024-09-29 at 11 44 44 PM" src="https://github.com/rutuja-patil24/CMPE-255-Data_Mining/blob/main/Assignment_4/Screenshots/GPT_Engg_Installation.png">
+<img width="1440" alt="Screenshot" src="https://github.com/rutuja-patil24/CMPE-255-Data_Mining/blob/main/Assignment_4/Screenshots/Weather_App.png">
 
 
 
