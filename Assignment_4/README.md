@@ -31,6 +31,11 @@ I created a weather application using GPT Engineer in VS Code. The app provides 
 <img width="1440" alt="Screenshot 2024-09-29 at 11 44 44 PM" src="https://github.com/rutuja-patil24/CMPE-255-Data_Mining/blob/main/Assignment_4/Screenshots/GPT_Engg_Installation.png">
 
 
+- GPT Engineer Installation
+  
+<img width="1440" alt="Screenshot 2024-09-29 at 11 44 44 PM" src="https://github.com/rutuja-patil24/CMPE-255-Data_Mining/blob/main/Assignment_4/Screenshots/GPT_Engg_Installation.png">
+
+
 
 - Youtube Video Link Weather App Using gpt Engineer: [Watch here](https://youtu.be/Uc2zqluqYiA)
 
