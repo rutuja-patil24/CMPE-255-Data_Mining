@@ -26,7 +26,7 @@ The request involves performing a detailed exploratory data analysis (EDA) and m
 
 I created a weather application using GPT Engineer in VS Code. The app provides a web interface where users can input a city name, and it retrieves and displays the weather data for that city.
 
-![Example Image](https://github.com/username/repository-name/blob/main/images/example.png)
+![Example Image](Assignment_4/Screenshots/GPT_Engg_Installation.png)
 
 
 
