@@ -8,16 +8,18 @@ Use AI to do data science/coding in chatbot mode
 
 Do data science (ideally deep learning but simpler one is fine)  using chatgpt code interpreter by picking a popular data set in kaggle website, upload and do various modules of data science.
 
-- Chat Transcript: https://chatgpt.com/share/66fa2f09-a2d4-800c-b9d1-232cc7975e9d
+The request involves performing a detailed exploratory data analysis (EDA) and modeling using CRISP-DM methodology.
 
-  - The request involves performing a detailed exploratory data analysis (EDA) and modeling using CRISP-DM methodology.
-  - Dataset : Airline Delay and Cancellation Dataset.
- 
-- Medium Article Link:
+ Dataset : Airline Delay and Cancellation Dataset.
 
-    https://medium.com/@rutujabhaskarrao.patil/predicting-flight-delays-with-advanced-machine-learning-techniques-a-comprehensive-workflow-b67718c58310
+- Chat Transcript: [Link](https://chatgpt.com/share/66fa2f09-a2d4-800c-b9d1-232cc7975e9d)
+
+- Medium Article: [Link](https://medium.com/@rutujabhaskarrao.patil/predicting-flight-delays-with-advanced-machine-learning-techniques-a-comprehensive-workflow-b67718c58310)
   
-- Youtube Video Link Chatgpt(EDA & CRISP-DM): [Watch here](https://youtu.be/Uc2zqluqYiA)
+- Youtube Video Link Chatgpt(EDA & CRISP-DM): [Watch here](https://youtu.be/JW4_2QXyUp0)
+ 
+
+
 
 
 ### Part 2:
