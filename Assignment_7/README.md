@@ -4,7 +4,7 @@ EDA, Visualization and Data preparation and processing of popular kaggle dataset
 
 ## Contents
 
-### Part 1: CRISP-DM
+### Part 1: Tabular
 - Dataset : NYC Airbnb.
 
 - Colab Link: https://colab.research.google.com/drive/1RUEmoX0WGDE4PBveGOI2zy_bNtlCNIBM?usp=sharing
