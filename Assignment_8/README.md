@@ -26,7 +26,27 @@ https://colab.research.google.com/drive/1wCoOGCySNsqI1GTUL7FcRfhPV0rm9zSi?usp=sh
 
 https://colab.research.google.com/drive/1FoQ9RGefjnr2TYOSjS3HXm4pmkWZxsEN?usp=sharing
 
-
 - TimeGPT Video Link:  [Watch here](https://youtu.be/XvtW7Znyjbk)
+
+### Part 2: Tabular
+
+- Generate synthetic data for a real data set Colab Link: 
+
+https://colab.research.google.com/drive/1JW8DmOH2OajlPlwAiFQC8ftidVhy4ivg?usp=sharing
+
+- Inference on Tabula Model With Zero Shot Colab Link: 
+
+https://colab.research.google.com/drive/1DD_jqpx5NRg4Q9H8x_YoE9b_F1aGZnSv?usp=sharing
+
+- Tabular Video Link:  [Watch here](https://youtu.be/XvtW7Znyjbk)
+
+### Part 3: RDL and Relbench
+
+- Train a gnn based model for tabular prediction task using relbench Colab Link: 
+
+https://colab.research.google.com/drive/1ZuWHLytcgnFG-v-nt9BiZrqXdtCstRC7?usp=sharing
+
+
+- RDL Video Link:  [Watch here](https://youtu.be/XvtW7Znyjbk)
 
 
