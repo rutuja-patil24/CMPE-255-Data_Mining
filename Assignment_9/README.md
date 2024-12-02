@@ -33,4 +33,8 @@ Clustering
   
   https://colab.research.google.com/drive/1AIwdRn9xQT83SyB-6WF_vMCjYWUQ-pmq?usp=sharing
 
+- h) Clustering with Images using ImageBind LLM Embeddings Colab Link:
+  
+  https://colab.research.google.com/drive/1YMJGmWgdGC-ginqFMLPIvILhFn4Zw_vQ?usp=sharing
+
 - Video Link:  [Watch here](https://youtu.be/XvtW7Znyjbk)
