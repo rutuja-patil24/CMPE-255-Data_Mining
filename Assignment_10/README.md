@@ -8,13 +8,13 @@ Demonstrate Various Dimensionality Reduction Techniques
 
 - Dimensionality Reduction Image Dataset Colab Link: 
 
-https://colab.research.google.com/drive/1mNbG5_woa4IiZKm9ZVzrITFPfrHSypB0?usp=sharing
+https://colab.research.google.com/drive/1sMWc3gm-R1w5v5KvyXJ4LWdrbzhQ0Tjj?usp=sharing
 
 ### Part 2: Tabular Dataset
 
 - Dimensionality Reduction Tabular Dataset Colab Link: 
 
-https://colab.research.google.com/drive/1JW8DmOH2OajlPlwAiFQC8ftidVhy4ivg?usp=sharing
+https://colab.research.google.com/drive/1OC4biGAEOu8C-m0v2o-ehIgOxzn7Okq-?usp=sharing
 
 ### Part 3: Databricks
 
