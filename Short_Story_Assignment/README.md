@@ -26,7 +26,7 @@ A detailed overview of the research has been summarized in a Medium article.
 A concise, visually engaging presentation summarizing the research and its implications.
 
 - **Title**: Shopping-MMLU: The AI Benchmark Revolutionizing E-Commerce  
-- **Link**: [View the Slideshare presentation](#) 
+- **Link**: [View the Slideshare presentation](https://www.slideshare.net/slideshow/shopping-mmlu-the-ai-benchmark-revolutionizing-e-commerce/273792967) 
 
 ---
 
