@@ -5,7 +5,7 @@ Decision Trees and Ensemble
 ## Contents
 
 
-- a) Gradient Boosting From Scratch Colab Link:
+- 1) Gradient Boosting From Scratch Colab Link:
 
   https://colab.research.google.com/drive/1vToOlVouz-VQK1NB4XmD9cborz8h3S3l?usp=sharing
 
@@ -13,9 +13,9 @@ Decision Trees and Ensemble
 
    https://colab.research.google.com/drive/1XyqWNIs9wKfqSuBnY-aO6T4tmEp1A774?usp=sharing
 
-- c) Gaussian mixture models clustering Colab Link:
+- 3) Adaboost Algorithm From Scratch Colab Link:
 
-   https://colab.research.google.com/drive/1S1AU0i-Wm_aWgtc4B-bqHIALjsO5Adl3?usp=sharing
+   https://colab.research.google.com/drive/1Xi72UgZk4BGDXsudpUz_1aiEGEl8v8VA?usp=sharing
 
  - d) DB Scan Clustering Colab Link:
 
