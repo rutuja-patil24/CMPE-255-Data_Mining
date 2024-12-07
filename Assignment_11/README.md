@@ -7,19 +7,19 @@ Decision Trees and Ensemble
 
 - 1) Gradient Boosting From Scratch Colab Link:
 
-  https://colab.research.google.com/drive/1vToOlVouz-VQK1NB4XmD9cborz8h3S3l?usp=sharing
+     https://colab.research.google.com/drive/1vToOlVouz-VQK1NB4XmD9cborz8h3S3l?usp=sharing
 
 - b) Hierarchical clustering Colab Link:
 
-   https://colab.research.google.com/drive/1XyqWNIs9wKfqSuBnY-aO6T4tmEp1A774?usp=sharing
+     https://colab.research.google.com/drive/1XyqWNIs9wKfqSuBnY-aO6T4tmEp1A774?usp=sharing
 
 - 3) Adaboost Algorithm From Scratch Colab Link:
 
-   https://colab.research.google.com/drive/1Xi72UgZk4BGDXsudpUz_1aiEGEl8v8VA?usp=sharing
+     https://colab.research.google.com/drive/1Xi72UgZk4BGDXsudpUz_1aiEGEl8v8VA?usp=sharing
 
- - d) DB Scan Clustering Colab Link:
+ - 4) Decision Trees from scratch Colab Link:
 
-   https://colab.research.google.com/drive/1iQtXSurdZsf5VY1VevzEii3_ni39BKsr?usp=sharing
+      https://colab.research.google.com/drive/1vAjsf0Wd4t5T9rpKKmjtrFKo0oyxi0Z3?usp=sharing
 
 - e) Anomaly Detection Time Series Colab Link:
 
