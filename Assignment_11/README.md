@@ -21,9 +21,9 @@ Decision Trees and Ensemble
 
       https://colab.research.google.com/drive/1vAjsf0Wd4t5T9rpKKmjtrFKo0oyxi0Z3?usp=sharing
 
-- e) Anomaly Detection Time Series Colab Link:
+- a) GBM Classifier Techniques Colab Link:
 
-   https://colab.research.google.com/drive/15BpRw58MXgYcp7d_-hiOc6sNyHRfr5jv?usp=sharing
+   https://colab.research.google.com/drive/1BgLkGDDvzF7pYVkkq6rkQmqFsI0KuvPu?usp=sharing
   
 - f) Clustering of Timeseries Data Using Pretrained Models Colab Link:
   
