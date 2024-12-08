@@ -11,7 +11,7 @@ Decision Trees and Ensemble
 
 - 2) Random Forest From Scratdch Colab Link:
 
-     https://colab.research.google.com/drive/1XyqWNIs9wKfqSuBnY-aO6T4tmEp1A774?usp=sharing
+     https://colab.research.google.com/drive/1yoGs3GUnL5a_kcM8Bj3gjjhWLPcsgv1q?usp=sharing
 
 - 3) Adaboost Algorithm From Scratch Colab Link:
 
