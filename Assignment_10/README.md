@@ -18,9 +18,8 @@ https://colab.research.google.com/drive/1OC4biGAEOu8C-m0v2o-ehIgOxzn7Okq-?usp=sh
 
 ### Part 3: Databricks
 
-- Dimensionality Reduction Using Databricks Colab Link:
-
-https://colab.research.google.com/drive/1ZuWHLytcgnFG-v-nt9BiZrqXdtCstRC7?usp=sharing
+- Dimensionality Reduction Using Databricks Link:
+  https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/501331277309159/1548989626704335/8250881925549742/latest.html
 
 ---
 
