@@ -26,7 +26,7 @@ https://colab.research.google.com/drive/1wCoOGCySNsqI1GTUL7FcRfhPV0rm9zSi?usp=sh
 
 https://colab.research.google.com/drive/1FoQ9RGefjnr2TYOSjS3HXm4pmkWZxsEN?usp=sharing
 
-- TimeGPT Video Link:  [Watch here](https://youtu.be/XvtW7Znyjbk)
+- TimeGPT Video Link:  [Watch here](https://youtu.be/AmUZ1dPgvTQ)
 
 ### Part 2: Tabular
 
@@ -38,7 +38,7 @@ https://colab.research.google.com/drive/1JW8DmOH2OajlPlwAiFQC8ftidVhy4ivg?usp=sh
 
 https://colab.research.google.com/drive/1DD_jqpx5NRg4Q9H8x_YoE9b_F1aGZnSv?usp=sharing
 
-- Tabular Video Link:  [Watch here](https://youtu.be/XvtW7Znyjbk)
+- Tabular Video Link:  [Watch here](https://youtu.be/ijVoSCd0H0w)
 
 ### Part 3: RDL and Relbench
 
