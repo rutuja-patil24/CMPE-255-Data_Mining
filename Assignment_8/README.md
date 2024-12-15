@@ -47,6 +47,6 @@ https://colab.research.google.com/drive/1DD_jqpx5NRg4Q9H8x_YoE9b_F1aGZnSv?usp=sh
 https://colab.research.google.com/drive/1ZuWHLytcgnFG-v-nt9BiZrqXdtCstRC7?usp=sharing
 
 
-- RDL Video Link:  [Watch here](https://youtu.be/XvtW7Znyjbk)
+- RDL Video Link:  [Watch here](https://youtu.be/YKOP8NyX66I)
 
 
