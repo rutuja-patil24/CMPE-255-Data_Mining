@@ -37,4 +37,8 @@ Clustering
   
   https://colab.research.google.com/drive/1YMJGmWgdGC-ginqFMLPIvILhFn4Zw_vQ?usp=sharing
 
+- i) Clustering with Audio Embeddings using IImagebind LLM Colab Link:
+  
+  https://colab.research.google.com/drive/1TfqYgNhH2Qtx_LD6gqoZiNIc6CIfi6nx?usp=sharing
+
 - Video Link:  [Watch here](https://youtu.be/XvtW7Znyjbk)
